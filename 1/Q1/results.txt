@@ -1,0 +1,9 @@
+SPEED:
+Arithmetic Mean = 15.4
+Geometric Mean = 14.3250064215
+Harmonic Mean = 12.9615258275
+
+Distance:
+Arithmetic Mean = 42.98
+Geometric Mean = 34.3261479627
+Harmonic Mean = 22.1821427266

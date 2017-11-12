@@ -1,0 +1,56 @@
+Nominal : symboling,make,fuel-type,body-style,drive-wheels,engine-location,engine-type,fuel-system,
+
+Ordinal : aspiration,num-of-doors,num-of-cylinders,
+
+Interval : wheel-base,length,width,height,curb-weight,engine-size,bore,stroke,compression-ratio,
+
+Ratio : normalized-losses,horsepower,peak-rpm,city-mpg,highway-mpg,price
+
+
+ normalized-losses 
+Mean :  122.0
+Median :  122.0
+Mode :  0    122
+dtype: float64
+
+
+ bore 
+Mean :  3.32975124378
+Median :  3.31
+Mode :  0    3.62
+dtype: float64
+
+
+ stroke 
+Mean :  3.25542288557
+Median :  3.29
+Mode :  0    3.4
+dtype: float64
+
+
+ horsepower 
+Mean :  104.256157635
+Median :  95.0
+Mode :  0    68
+dtype: float64
+
+
+ city-mpg 
+Mean :  25.2195121951
+Median :  24.0
+Mode :  0    31
+dtype: float64
+
+
+ peak-rpm 
+Mean :  5125.36945813
+Median :  5200.0
+Mode :  0    5500
+dtype: float64
+
+
+ price 
+Mean :  13207.1293532
+Median :  10595.0
+Mode :  0    13207.129353
+dtype: float64

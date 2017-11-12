@@ -1,0 +1,10 @@
+Correlation coefficient =  -0.75967465843 
+ This implies sugar and rating has negative correlation.
+
+(r square )r^2 =  0.577105586661
+0 order Equation: [ 42.66570499]
+1 order Equation: [ -2.40081989  59.28436737]
+2 order Equation: [  0.13761496  -4.32660807  63.33743018]
+3 order Equation: [  4.32501783e-03   4.73270822e-02  -3.85466639e+00   6.29588759e+01]
+Here we can see that the coeffcients are samller for higer order terms.
+Hence the  correlation is almost linear.

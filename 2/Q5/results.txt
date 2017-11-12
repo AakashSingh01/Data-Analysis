@@ -1,0 +1,4 @@
+                 Average rating
+Action films :  7.05404371585
+Other films  :  7.14760416667
+Here hypothesis fails that action films are  more rated.

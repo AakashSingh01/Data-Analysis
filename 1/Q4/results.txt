@@ -1,0 +1,24 @@
+SepalLengthCm
+Mean :  5.84333333333
+Sample Variance :  0.693636734694
+Population Variance :  0.685693512304
+Difference in Sample and Population Variances :  0.00794322238963
+
+SepalWidthCm
+Mean :  3.054
+Sample Variance :  0.25513877551
+Population Variance :  0.188004026846
+Difference in Sample and Population Variances :  0.0671347486646
+
+PetalLengthCm
+Mean :  3.75866666667
+Sample Variance :  3.28604489796
+Population Variance :  3.11317941834
+Difference in Sample and Population Variances :  0.172865479615
+
+PetalWidthCm
+Mean :  1.19866666667
+Sample Variance :  0.535689795918
+Population Variance :  0.582414317673
+Difference in Sample and Population Variances :  0.046724521755
+

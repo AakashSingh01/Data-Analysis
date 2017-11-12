@@ -1,0 +1,4 @@
+The graphs showing the following behaviour:: 
+ -Over time pay is highest for employees having average basic pay and lowest for the employees having high basic pay.
+ -Other pay decreases with increase in basic pay.
+ -Benefits increases with increase in basic pay

@@ -1,0 +1,23 @@
+Depth/Km :
+1. Sample Minimum :  0.2
+2. Lower Quartile :  8.9
+3. Sample Median :  9.9
+4. Upper Quartile :  10.8
+5. Sample Maximum :  47.9
+
+No. of outliers :  1007
+
+
+
+Magnitude :
+1. Sample Minimum :  2.0
+2. Lower Quartile :  2.1
+3. Sample Median :  2.3
+4. Upper Quartile :  2.6
+5. Sample Maximum :  6.5
+
+No. of outliers :  725
+
+
+
+Box Plot of Depth/Km and Magnitude : 

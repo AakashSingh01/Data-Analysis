@@ -1,0 +1,75 @@
+
+
+Confusion Matrix for  1  testing set with Naive Bayes Classification :
+[[996  77]
+ [ 87  90]]
+Accuracy :  0.8688
+Precision :  0.538922155689
+
+
+Confusion Matrix for  1  testing set with Decision Tree Classification :
+[[1029   44]
+ [  42  135]]
+Accuracy :  0.9312
+Precision :  0.754189944134
+
+
+Confusion Matrix for  1  testing set with Support Vector Machines Classification :
+[[1073    0]
+ [ 177    0]]
+Accuracy :  0.8584
+Precision :  0.0
+
+
+Confusion Matrix for  2  testing set with Naive Bayes Classification :
+[[992  81]
+ [ 85  92]]
+Accuracy :  0.8672
+Precision :  0.531791907514
+
+
+Confusion Matrix for  2  testing set with Decision Tree Classification :
+[[1011   62]
+ [  50  127]]
+Accuracy :  0.9104
+Precision :  0.671957671958
+
+
+Confusion Matrix for  2  testing set with Support Vector Machines Classification :
+[[1073    0]
+ [ 177    0]]
+Accuracy :  0.8584
+Precision :  0.0
+
+
+Confusion Matrix for  3  testing set with Naive Bayes Classification :
+[[988  85]
+ [ 81  96]]
+Accuracy :  0.8672
+Precision :  0.530386740331
+
+
+Confusion Matrix for  3  testing set with Decision Tree Classification :
+[[1019   54]
+ [  45  132]]
+Accuracy :  0.9208
+Precision :  0.709677419355
+
+
+Confusion Matrix for  3  testing set with Support Vector Machines Classification :
+[[1073    0]
+ [ 177    0]]
+Accuracy :  0.8584
+Precision :  0.0
+
+Average Accuracy and Precision with Naive Bayes Classification : 
+0.867733333333 0.533700267845
+
+Average Accuracy and Precision with Decision Tree Classification : 
+0.9208 0.711941678482
+
+Average Accuracy and Precision with Support Vector Machines Classification : 
+0.8584 0.0
+
+We can see Decision tree is providing better accuracy and ROC curves. 
+Hence Desicion Tree model is preferable here.
